@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-color: beige;
+    color: brown;
+}
+
+a {
+    background-color: crimson;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
