@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Марков Егор</h1>
+      <ul>
+        <img class="before" src="https://learn.algoritmika.org/uploads/student/1048197/6649e27782fef.png"/>
+        <li>люблю играть в игры</li>
+        <img class="before" src="https://learn.algoritmika.org/uploads/student/1048197/6649e27782fef.png"/>
+        <li>увлекаюсь программированием</li>
+        <img class="before" src="https://learn.algoritmika.org/uploads/student/1048197/6649e27782fef.png"/>
+        <li>пою и танцую</li>
+      </ul>
+      <img src="https://learn.algoritmika.org/uploads/student/1048197/659024ee3c65c.png" width="300px" height="300px"/>
+      <img src="https://learn.algoritmika.org/uploads/student/1048197/6649e12de263c.jpg" width="300px" height="300px"/>
+      <h2>Что я люблю:</h2>
+      <ul>
+        <img class="before" src="https://learn.algoritmika.org/uploads/student/1048197/6649e27782fef.png"/>
+        <li>Макароны с сыром и сосисками</li>
+        <img class="before" src="https://learn.algoritmika.org/uploads/student/1048197/6649e27782fef.png"/>
+        <li>Английский язык</li>
+        <img class="before" src="https://learn.algoritmika.org/uploads/student/1048197/6649e27782fef.png"/>
+        <li>Песню S-M-I-L-E</li>
+        <img class="before" src="https://learn.algoritmika.org/uploads/student/1048197/6649e27782fef.png"/>
+        <li>Спать</li>
+        <img class="before" src="https://learn.algoritmika.org/uploads/student/1048197/6649e27782fef.png"/>
+        <li>Играть в роблокс</li>
+      </ul>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
