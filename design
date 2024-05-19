@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.link-header {
+    background-color: bisque;
+    color: azure;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+img {
+    border: 5px dashed aquamarine;
+}
+
+.before {
+    width: 50px;
+}
